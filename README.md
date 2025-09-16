@@ -19,8 +19,8 @@ Este repositório contém exercícios em Python voltados para **aprendizado de l
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/listas_tuplas_python.git
-cd listas_tuplas_python
+git clone https://github.com/Alisson059/listas_tuplas_python.git
+cd Exercicio_tuplas_e_listas
 python numeros_pares_impares.py
 python numeros_maior_menor.py
 python numeros_loop_while.py
